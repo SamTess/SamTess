@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate developer from Nantes, France</h3>
 
-- 🔭 I’m currently looking for an **intership** starting in July for 6 months
+- 🔭 I’m currently looking for an **internship** starting in July for 6 months
 - 🌱 I’m currently learning **in Epitech**
 - 📫 How to reach me **samuel.tesson@epitech.eu**
 
